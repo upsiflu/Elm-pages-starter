@@ -1,6 +1,8 @@
 # elm-pages-starter
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dillonkearns/elm-pages-starter)
+[In-progress test app](https://incandescent-beignet-2d0b97.netlify.app/)
+
+Playing around with elm-pages to see if it's a good fit to kickstart pacha-go.
 
 ## Setup Instructions
 
